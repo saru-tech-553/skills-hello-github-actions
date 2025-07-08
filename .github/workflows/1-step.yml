@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - welcome-workflow
+      - main
     paths:
       - ".github/**"
 
